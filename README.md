@@ -1,24 +1,37 @@
-# learning-resources-app-vue
+# Learning Resources Vue
 
-## Project setup
+## Описание
+
+Учебный проект созданный при моём знакомстве с продвинутыми компонентами Vue JS. Приложение с формой добавления информации о учебных ресурсах, и отображение карточек с этой информацией.
+
+## Что я узнал о функционале Vue при работе над этим проектом?
+
+-   глобальная/локальная регистрация компонентов
+-   Vue Style Guide для именования компонентов и организации структуры проекта
+-   использование slots для базовых глобальных компонентов
+-   динамические компоненты
+-   provide/inject
+
+## Запуск проекта
+
+-   клонировать репозиторий и перейти в папку проекта:
+
+```bash
+git clone https://github.com/romanlesnoy/learning-resources-vue.git
+```
+
+```
+cd learning-resources-vue
+```
+
+-   установить зависимости:
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+-   запустить проект:
+
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
