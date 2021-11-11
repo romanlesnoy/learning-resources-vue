@@ -35,10 +35,10 @@ export default {
                     link: 'https://vuejs.org',
                 },
                 {
-                    id: 'google',
-                    title: 'Google',
-                    description: 'Google',
-                    link: 'https://google.com',
+                    id: 'vue-doc',
+                    title: 'Vue.js: The Documentary',
+                    description: 'History of the framework creation',
+                    link: 'https://youtu.be/OrxmtDw4pVI',
                 },
             ],
         };
